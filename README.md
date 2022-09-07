@@ -1,6 +1,9 @@
 # Dougie the Donut & Pizza Rat
 
 
+![dougie and rat](https://user-images.githubusercontent.com/55994508/188909047-6ec5150e-84b7-4ced-b13e-cc49d4ce2eb3.png)
+
+
 Dougie the Donut and Pizza Rat are now best buds taking New York City by storm. Now instead of causing trouble against each other, they've taken it upon themselves to cause trouble around the city! The catch is, they don't want to get caught by the police (in other words, they want to eat their cake and have it, too) so they've put their brains together to come up with a helpful app idea that will allow them to see what kind of trouble they can cause without getting thrown in jail. Let's help them build it!
 
 
@@ -11,6 +14,9 @@ You will be provided with the JavaScript necessary for fetching data from the AP
 
 
 Take a look at the array of objects that the API sends back to you... particularly the borough, descriptor, and resolution_description properties. Keep in mind that sometimes that last one is not included.
+
+
+![api](https://user-images.githubusercontent.com/55994508/188909163-9cfa0d4c-11f7-4e59-a851-8ff64ad989e0.png)
 
 
 **Minimum Viable Product (MVP)**
@@ -35,3 +41,8 @@ Below is a more detailed list of what functionalities Dougie and Pizza Rat want 
 
 
 6- Make sure it only toggles the response for that one complaint, not the entire list!
+
+**Example**
+
+
+![example](https://user-images.githubusercontent.com/55994508/188908883-84ce6fd4-c948-4c71-9d64-5a6477bfd797.gif)
